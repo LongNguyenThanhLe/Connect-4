@@ -1,4 +1,5 @@
 # Project5_COSC211
+![Project image](e39a892c0b8c075f2f5855e1bfbd6cc2.png)
 COSC 211 – MP5 (Paint Swings) - Due 03/29 – (50 points)
 
 Learning Objectives:
