@@ -1,6 +1,6 @@
 # Project5_COSC211
 ![Project image](e39a892c0b8c075f2f5855e1bfbd6cc2.png)
-COSC 211 – MP5 (Paint Swings) - Due 03/29 – (50 points)
+COSC 211 – MP5 (Paint Swings) - Due 03/29 – (50 points
 
 Learning Objectives:
 To practice using existing classes from the Java class library, calling methods, and object creation. In particular, you will make use of methods from the API of the Graphics class to draw a shape, and you will create one or more Color objects in order to add custom colors to your drawing. 
